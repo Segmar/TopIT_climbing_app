@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671018442334",
+    "project_id": "topitdb-c2be5",
+    "storage_bucket": "topitdb-c2be5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671018442334:android:2d1cc3c714f07603021ecf",
+        "android_client_info": {
+          "package_name": "pl.segmar.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMxmNMVGTGyOJosh9bScYzVczvO6BVIJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
